@@ -65,7 +65,8 @@ Version 2
 GET the number
 IF the digit is an integer 
 FOR every digit COUNT one digit
-SHOW the COUNT
+	SHOW the COUNT
+	ENDFOR
 STOP
 
 
