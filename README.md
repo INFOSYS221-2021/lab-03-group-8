@@ -40,9 +40,9 @@ Version 1
 GET the number
 convert to string
 get length of string
-if first value is “-“
-	Length - 1
-SHOW the count
+if first value of string is “-“
+	set Length - 1
+Print Length
 END
 
 Version 2
