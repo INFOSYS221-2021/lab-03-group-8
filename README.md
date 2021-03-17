@@ -1,12 +1,17 @@
 Natasha williams
+
 Komal Jabbar
+
 Devon McGarth
+
 Jen Feng William Liang
 
 version 1
+
 Exercise 1
 
 make an empty string varible
+
 make a length of the string and set = n
 set a loop with a condition
 get the last element of the the string
