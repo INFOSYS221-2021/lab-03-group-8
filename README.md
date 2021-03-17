@@ -48,9 +48,12 @@ DETERMINE the number of digits
 IF the value is an integer COUNT
 SHOW the count
 END
+
 Version 2
 GET the number
 IF the digit is an integer 
 FOR every digit COUNT one digit
 SHOW the COUNT
 STOP
+
+
