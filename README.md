@@ -37,6 +37,16 @@ PRINT result
 STOP
   
 Version 1
+Get the number
+set the number to a string
+calculate length of string
+check if negative
+	reduce length by 1 if negative
+Print length
+END
+
+Version 2
+
 GET the number
 convert to string
 get length of string
@@ -44,6 +54,7 @@ if first value of string is “-“
 	set Length - 1
 Print Length
 END
+
 
 Version 2
 GET the number
