@@ -3,27 +3,37 @@ Komal Jabbar
 Devon McGarth
 Jen Feng William Liang
 
-version
+version 1
 Exercise 1
-SET empty string varible
-GET length of the string and set = n
+
+make an empty string varible
+make a length of the string and set = n
 set a loop with a condition
-set first variable as empty
-get the last element to the empty variable
+get the last element of the the string
+add it to the empty string variable
 repeat 
 
 Version 2
 GET length of string
 SET empty string varible
-START a loop to read from the end with a true/false condition
+START a loop to read from the end with a condition
 ADD each element to the empty string variable
 END loop
-RETURN the result
+
+Version 3 
+
 
 Version 5
+START
 INIT empty string varible
 INIT string length
-INIT a 
-WHILE isreversed False
+INIT string range as string length - 1
+WHILE NOT string range + 1 same as string length 
   GET last value
+  INCREMENT last value to empty string
+  DECREMENT string range by 1
+ENDWHILE
+PRINT result
+STOP
+  
 
