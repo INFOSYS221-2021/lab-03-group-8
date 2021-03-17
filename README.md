@@ -33,7 +33,24 @@ WHILE NOT string range + 1 same as string length
   INCREMENT last value to empty string
   DECREMENT string range by 1
 ENDWHILE
+
+
+
 PRINT result
 STOP
   
 
+Exercise 5
+
+Version 1
+GET the number
+DETERMINE the number of digits
+IF the value is an integer COUNT
+SHOW the count
+END
+Version 2
+GET the number
+IF the digit is an integer 
+FOR every digit COUNT one digit
+SHOW the COUNT
+STOP
