@@ -41,6 +41,10 @@ ENDWHILE
 PRINT result
 STOP
   
+  
+  
+excersIZE 5
+
 Version 1
 Get the number
 set the number to a string
